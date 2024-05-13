@@ -34,7 +34,7 @@ Contributions to this project, such as improvements to the model architecture, d
 
 ## Credits
 
-This project was developed by David Fernández Reboredo. Special thanks to Kaggle user daferre01 for providing the dataset and inspiration for this project.
+This project was developed by David Fernández Reboredo. Special thanks to Kaggle user RAHULTEJ MORA for providing the dataset and inspiration for this project.
 
 ## License
 
